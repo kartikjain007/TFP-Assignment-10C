@@ -1,0 +1,32 @@
+.parent {
+  position: relative;
+}
+
+.c1 {
+  position: fixed;
+  left: 900px;
+}
+
+.c2 {
+  position: absolute;
+  top: 0px;
+}
+
+.c3 {
+  position: sticky;
+  top: 20px;
+}
+
+.parent .long {
+  position: fixed;
+}
+
+.c4 {
+  position: sticky;
+  top: 20px;
+}
+
+.c5 {
+  position: sticky;
+  top: 20px;
+}
